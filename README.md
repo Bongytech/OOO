@@ -25,15 +25,6 @@ List the ready features here:
 The user should intall the executable file.
 
 
-
-## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
-
-
-## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-
 ## Acknowledgements
 Give credit here.
 - This project created was by...https://github.com/Bongytech and https://github.com/bonginkosi0607
