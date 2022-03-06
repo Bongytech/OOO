@@ -31,5 +31,5 @@ Give credit here.
 
 
 ## Contact
-Created by (https://www.bongy.online/  or https://bonginkosi.eu5.org) - feel free to contact us!
+Created by (https://www.bongy.online/  and https://bonginkosi.eu5.org) - feel free to contact us!
 
