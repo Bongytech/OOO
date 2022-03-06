@@ -1,5 +1,6 @@
 import os
 import os.path
+import sys
 from win10toast import ToastNotifier
 toaster = ToastNotifier()
 import requests
@@ -21,10 +22,11 @@ def online(url="http://www.goole.com"):
         return False
 
 while True:
-    if True:
+    if os.path.isfile("run.run"):
         if online() :
             with open("on_or_offline_log.txt", "a") as log:
                 log.write("\nOnline " + str(datetime.now()))
+                print("weitten")
                 log.close()
             if status == 0:
                 status -= status
@@ -34,8 +36,11 @@ while True:
         elif not online():
             with open("on_or_offline_log.txt", "a+") as log:
                 log.write("\nOffline " + str(datetime.now()))
+                print("written offline")
                 log.close()
             if status == 1:
                 status -= status
                 status += 0
                 toaster.show_toast("Offline" ,"Oh no!!!")
+    else:
+         sys.exit()
