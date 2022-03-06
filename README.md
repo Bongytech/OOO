@@ -4,8 +4,8 @@
 
 
 # General Information
-- It intends to notify the if the back especially if the connection was poor, do they can go back and do that require the internet.
-- This project could be more useful for network engineers, because it also save a log file with all the connection details that take place every second.
+- It intends to notify the user if the connection back especially if the connection was poor, they can go back and do something that require the internet.
+- This project could be more useful for network engineers, because it also saves a log file with all the connection details that take place every 15 seconds.
 
 
 
