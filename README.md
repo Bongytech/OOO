@@ -1,7 +1,6 @@
 # OOO (Online or Offline)
 > This is a network connect that notifies a user if a machine is connected or not.
-
-
+Download the latest version here:https://bongy.online/assets/apps/OOOSetup.exe/
 
 # General Information
 - It intends to notify the user if the connection back especially if the connection was poor, they can go back and do something that require the internet.
